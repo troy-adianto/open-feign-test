@@ -1,0 +1,7 @@
+/Users/tadianto/workspace/open-feign-test/src/main/java/com/example/demo/Application.java
+/Users/tadianto/workspace/open-feign-test/src/main/java/com/example/demo/api/HelloClient.java
+/Users/tadianto/workspace/open-feign-test/src/main/java/com/example/demo/api/UserClient.java
+/Users/tadianto/workspace/open-feign-test/src/main/java/com/example/demo/api/WeatherClient.java
+/Users/tadianto/workspace/open-feign-test/src/main/java/com/example/demo/controller/HelloController.java
+/Users/tadianto/workspace/open-feign-test/src/main/java/com/example/demo/model/WeatherDescription.java
+/Users/tadianto/workspace/open-feign-test/src/main/java/com/example/demo/model/WeatherInfo.java
